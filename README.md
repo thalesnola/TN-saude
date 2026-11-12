@@ -2,6 +2,9 @@
 
 ---
 
+![Demonstração Motion — TN-saude](docs/diagrama-motion.svg)
+
+
 # saude
 
 Repositório público demonstrativo do projeto de saúde e acompanhamento corporal: ingestão de exames laboratoriais, balanças de bioimpedância, antropometria, fotos corporais, treinos, wearables e prescrições didáticas integradas em um Registro Mestre local.
